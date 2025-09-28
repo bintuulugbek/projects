@@ -6,7 +6,6 @@ My Website Live demo => https://storied-griffin-c04067.netlify.app/
 ![Part 2](images/xbox2.jpg)  
 ![Part 3](images/xbox3.jpg)
 ![Part 4](images/xbox4.jpg)
-![Part 5](images/xbox5.jpg)
 ![Part 6](images/xbox6.jpg)
 ![Part 7](images/xbox7.jpg)
 ![Part 8](images/xbox8.jpg)
