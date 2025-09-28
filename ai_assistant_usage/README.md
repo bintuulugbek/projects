@@ -3,16 +3,10 @@
 This project analyzes how students use AI assistants in their academic life.  
 The dashboard was created in **Power BI** and includes KPIs, slicers, and interactive visuals.  
 
-## 📂 Files in this repo
-- `ai_assistant_usage.pbit` → Power BI Template file (open in Power BI Desktop)  
-- `ai_assistant_usage.pdf` → Exported dashboard for quick preview  
-- `ai_assistant_usage_student_life.csv` → Dataset 
-
 ## 🔍 Dashboard Preview
 ### Overview Page
 ![Dashboard Screenshot](images/dashboard.jpg)
 
-### Key Metrics
 ## 📊 Dashboard Overview
 This Power BI dashboard explores **AI Assistant Usage in Student Life**, showing how students from different disciplines interact with AI tools.  
 
