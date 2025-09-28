@@ -6,10 +6,12 @@ It demonstrates **data modeling, SQL analytics** of sales, customers, products, 
 
 ## 🏗 Database Schema
 The BikeStores schema connects sales, products, and operations:  
-- **Customers → Orders → Order_Items → Products**  
-- **Products → Categories & Brands**  
-- **Orders → Stores & Staffs**  
-- **Stores → Stocks → Products**  
+Customers place Orders
+Orders contain Order_Items
+Order_Items reference Products
+Products belong to Categories and Brands
+Orders are processed by Stores and Staffs
+Stores maintain Stocks of Products
 
 This design supports both **transactional reporting** and **business analytics**.  
 
