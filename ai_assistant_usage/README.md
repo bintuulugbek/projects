@@ -4,7 +4,6 @@ This project analyzes how students use AI assistants in their academic life.
 The dashboard was created in **Power BI** and includes KPIs, slicers, and interactive visuals.  
 
 ## 🔍 Dashboard Preview
-### Overview Page
 ![Dashboard Screenshot](images/dashboard.jpg)
 
 ## 📊 Dashboard Overview
