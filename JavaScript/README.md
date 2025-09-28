@@ -6,5 +6,5 @@ My Projects Demo => https://polite-bublanina-2a4e97.netlify.app/
 ![Part 2](images/js2.jpg)  
 
 ### Press any keyboard and get its keycode :)
-![Part 3](images/keycode1.jpg)
-![Part 4](images/keycode2.jpg)
+![Part 3](images/keycode3.jpg)
+![Part 4](images/keycode4.jpg)
