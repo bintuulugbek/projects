@@ -1,6 +1,6 @@
 # 🚲 BikeStores Database — SQL & Analytics Project  
 
-This project models a **BikeStores retail database** in **SQL Server** and explores it with **SQL queries and Power BI dashboards**.  
+This project models a **BikeStores retail database** in **SQL Server** and explores it with **SQL queries**.  
 It demonstrates **data modeling, SQL analytics** of sales, customers, products, and inventory.  
 
 
