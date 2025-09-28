@@ -14,7 +14,7 @@ The BikeStores schema connects sales, products, and operations:
 This design supports both **transactional reporting** and **business analytics**.  
 
 ## 📸 Dashboard Preview
-![BikeStores Dashboard](images/model.png)
+![BikeStores Dashboard](image/model.png)
 
 ## 🛠️ SQL Views & Stored Procedures
 
