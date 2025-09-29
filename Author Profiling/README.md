@@ -1,5 +1,5 @@
 ### 🙂 Author Profiling for gender, age, industry classification
-Currently, I'm experimenting different approaches to get high accuracy in the classification of gender, age and industry.
+Currently, I'm experimenting with different approaches to get high accuracy in the classification of gender, age and industry.
 Here you can see what methods I have been using
 
 MTAP (NLP): BERT + char BiLSTM / word CNN / LDA features on Blog Authorship Corpus (~700k posts) 
@@ -7,6 +7,9 @@ MTAP (NLP): BERT + char BiLSTM / word CNN / LDA features on Blog Authorship Corp
 
 Naive Bayes:
 → 68% gender / 65% age / 19% industry val accuracy 
+
+BERT:
+→ 63% gender / 18% age / 39% industry 
 
 Built a multi-task author-profiling model (gender/age/industry) with BERT embeddings + char BiLSTM, word CNN, topic LDA.
 Best val accuracy: 69% (gender), 65% (age), 39% (industry); tracked F1 & confusion matrices.
