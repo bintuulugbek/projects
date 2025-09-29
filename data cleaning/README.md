@@ -1,22 +1,22 @@
 # 📝 Cleaned Blog Corpus
-#
-# This contains a cleaned version of the Blog Authorship Corpus,
-# prepared for machine learning experiments in author profiling 
-# (gender, age group, industry classification).
+
+### This contains a cleaned version of the Blog Authorship Corpus,
+### prepared for machine learning experiments in author profiling 
+### (gender, age group, industry classification).
 
 # 🔧 Cleaning Process
-# Steps applied during preprocessing:
-# - Removed HTML tags and special characters
-# - Removed duplicates and empty posts
-# - Remove non-English posts
-# - Filtered out authors with too few posts
-# - Structured text + metadata for ML experiments
+### Steps applied during preprocessing:
+### - Removed HTML tags and special characters
+### - Removed duplicates and empty posts
+### - Remove non-English posts
+### - Filtered out authors with too few posts
+### - Structured text + metadata for ML experiments
 
 # 🎯 Usage
 # This dataset can be used for:
-# - Text classification (gender, age, industry prediction)
-# - Stylometry & author profiling research
-# - Linguistic analysis across demographic groups
+### - Text classification (gender, age, industry prediction)
+### - Stylometry & author profiling research
+### - Linguistic analysis across demographic groups
 
 # 📊 Statistics about dataset 
 The Blog Authorship Corpus consists of the collected posts of 19,320 bloggers gathered from blogger.com in August 2004. The corpus incorporates a total of 681,288 posts and over 140 million words - or approximately 35 posts and 7250 words per person.
@@ -34,8 +34,9 @@ Each blog in the corpus includes at least 200 occurrences of common English word
 # ✨ After Cleaning
 96199 posts;
 5437 authors with 3 age groups and 14 industry labels
+average posts per author: ~17
 
 # ⚠️ Note
-# - This is a processed version of the Blog Authorship Corpus.
-# - Original dataset credit: Jonathan Schler et al. (2006).
-# - Use responsibly for research and educational purposes.
+### - This is a processed version of the Blog Authorship Corpus.
+### - Original dataset credit: Jonathan Schler et al. (2006).
+### - Use responsibly for research and educational purposes.
