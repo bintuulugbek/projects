@@ -1,8 +1,8 @@
 # 📝 Cleaned Blog Corpus
 
-### This contains a cleaned version of the Blog Authorship Corpus,
-### prepared for machine learning experiments in author profiling 
-### (gender, age group, industry classification).
+This contains a cleaned version of the Blog Authorship Corpus,
+prepared for machine learning experiments in author profiling 
+(gender, age group, industry classification).
 
 # 🔧 Cleaning Process
 Steps applied during preprocessing:
